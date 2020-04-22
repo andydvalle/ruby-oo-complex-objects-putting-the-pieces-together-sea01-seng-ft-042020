@@ -16,11 +16,7 @@ class Shoe
   # binding.pry
   
   def condition
-    if self.cobble == nil 
-      puts "new"
-    else
-      puts "tattered"
-    end
+    "new"
   end
   
 end 
