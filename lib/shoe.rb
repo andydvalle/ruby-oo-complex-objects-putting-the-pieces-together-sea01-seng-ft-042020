@@ -16,8 +16,5 @@ class Shoe
   
   # binding.pry
   
-  def condition
-    "new"
-  end
   
 end 
